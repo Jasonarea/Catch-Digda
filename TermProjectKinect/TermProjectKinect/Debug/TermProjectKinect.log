@@ -1,0 +1,6 @@
+﻿  mainGL.cpp
+d:\17_1\graphics\termprojectkinect\termprojectkinect\maingl.cpp(98): warning C4800: 'INuiSensor *': forcing value to bool 'true' or 'false' (performance warning)
+d:\17_1\graphics\termprojectkinect\termprojectkinect\maingl.cpp(340): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+  TermProjectKinect.vcxproj -> D:\17_1\Graphics\TermProjectKinect\Debug\TermProjectKinect.exe
+  TermProjectKinect.vcxproj -> D:\17_1\Graphics\TermProjectKinect\Debug\TermProjectKinect.pdb (Full PDB)
